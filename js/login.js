@@ -6,11 +6,11 @@ function logar(){
 
 if(email.value == "admin@admin.com" && senha.value == "admin" ){
     localStorage.setItem("acesso", true);
-    alert("Login Feito com Sucesso.")
+    alert("Login Successfully.")
     window.location.href = "index.html";
 
 }else{
-    alert("Email ou Senha invalida.")
+    alert("Invalid email or password.")
 }
 
 }

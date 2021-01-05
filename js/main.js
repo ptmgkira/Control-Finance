@@ -9,7 +9,7 @@ if(localStorage.getItem("acesso") == "true" ){
 
 if(logado != true){
 
-    alert("Sem Autenticação.") 
+    alert("No Authentication.") 
     window.location.href = "login.html";
 
 };
@@ -51,7 +51,7 @@ function CadastraProduto(){
    dados.push(auxRegistro);
 
    dados.setItem("dadosProduto", JSON.stringify(dados));
-   alert("Registro incluido com sucesso.")
+   alert("Registration successfully added.")
 
    produtoNome.value = "";
    produtoDescricao.value = "";
