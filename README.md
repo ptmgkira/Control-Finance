@@ -1,4 +1,4 @@
-[![](https://i.imgur.com/zNBkzj1.png)](https://beautifuljekyll.com/plans/)
+![](https://cdn.discordapp.com/attachments/793591386586742814/796116278188310639/Untitled-1.png)
 
 # HTML Website Template Control Finance
 Use this template as a starting point for any website design Financial Control in HTML or other types in which you want other people to collaborate.
@@ -6,7 +6,7 @@ Use this template as a starting point for any website design Financial Control i
 
 **STATUS: This project is actively used in production environments.**
 
-![screen shot 2017-03-16 at 6 18 48 pm](https://cdn.discordapp.com/attachments/793591386586742814/796084621824622612/unknown.png)
+![screen shot 2017-03-16 at 6 18 48 pm](https://cdn.discordapp.com/attachments/793591386586742814/796105969628217384/unknown.png)
 
 ## Features
 
